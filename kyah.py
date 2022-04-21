@@ -25,9 +25,9 @@ Pacotes = [codecs.decode("53414d5090d91d4d611e700a465b00","hex_codec"),#p
                        codecs.decode("081e7eda","hex_codec")#cookie port 7784 tambem
                        ]
 
-print("\033[91m ############################################### \n")
-print(" #PAKETT FROMM: %s XALBADORX: %s"%(orgip,port))
-print("\033[91m ############################################### \n")
+print("\033[91m =============================================== \n")
+print(" #PACKETS FROM : %s ZIELX : %s"%(orgip,port))
+print("\033[91m =============================================== \n")
             
 
 
