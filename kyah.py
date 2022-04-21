@@ -1,4 +1,4 @@
-#AUTOR : XALBADORX
+#AUTOR : ZIELXXX
 import socket
 import struct
 import codecs,sys
